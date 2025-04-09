@@ -1,0 +1,129 @@
+@charset "UTF-8";
+/* *{
+    backdrop-filter: blur(10px);
+} */
+
+/* body {
+    background-image: url("loginimage.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    margin: 0;
+} */
+
+/* .container {
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px black;
+    margin: 100px auto;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 5;
+    /* backdrop-filter: blur(10px); */
+    /* background-color: white;
+    display: flex;
+    flex-direction: column;
+    transition: height .2s ease; */
+/* } */ 
+
+.container .delPage1 {
+    display: block;
+}
+
+.container .delPage2, .container .delPage3 {
+    display: none;
+}
+
+/* .icon1 {
+    height: 40px;
+    width: 20px;
+}
+
+.login-icon {
+    background-color: rgb(240, 236, 236);
+    width: 50px;
+    border: none;
+    box-shadow: 0px 5px 10px black;
+    border-radius: 10px;
+}
+
+.login-icon:hover {
+    opacity: 0.4; 
+    filter: drop-shadow(2px 2px 2px blue);
+}
+
+h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+} */
+
+.inputbox input {
+    padding: 10px;
+    display: block;
+    width: 260px;
+    border: none;
+    outline: none;
+    margin: 5px;
+    background-color: rgb(207, 203, 203);
+    border-radius: 10px;
+    text-indent: 20px;
+}
+
+.inputbox input:focus {
+    box-shadow: 0px 0px 10px rgb(28, 171, 228);
+}
+
+.container .started, .container .nomine, .container .admin, .container .final {
+    width: 270px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background: rgb(22, 22, 22);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+.started:active, .nomine:active, .admin:active, .final:active {
+    background-color: transparent;
+    color: black;
+    border: 2px solid black;
+}
+
+.inputbox {
+    position: relative;
+}
+
+.inputbox .icon2 {
+    position: absolute;
+    top: 50%;
+    left: 0.9rem;
+    pointer-events: none;
+    transform: translateY(-50%);
+}
+
+.container .forgot-password {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.container a {
+    text-decoration: none;
+    color: black;
+}
+
+ .container a:hover {
+    color: red;
+}
+.container h1{
+    color: blue;
+    text-decoration: underline;
+}
