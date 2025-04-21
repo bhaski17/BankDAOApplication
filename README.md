@@ -32,7 +32,9 @@ data retrieval.
 <img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20003529.png">
 
 MySql Database : 
+
 Database name: company
+
 tables : customer and passbook
 
 image of table structure:
