@@ -15,4 +15,31 @@ data retrieval.
 
 ● Deployed the application on Apache Tomcat server for testing and execution.
 
-If any queries please contact https://github.com/bhaski17
+------------If any queries please contact https://github.com/bhaski17---------
+
+#####Demo Screenshots
+
+* Home Page:
+<img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20001638.png">
+
+* Create Account:
+<img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20001813.png">
+
+* Admin Page:
+<img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20002949.png">
+
+* Trans Page:
+<img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20003529.png">
+
+MySql Database : 
+Database name: company
+tables : customer and passbook
+
+image of table structure:
+1.Customer table:
+<img src ="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20004140.png">
+
+2.Passbook table:
+<img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20004200.png">
+
+
