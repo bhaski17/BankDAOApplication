@@ -28,6 +28,9 @@ data retrieval.
 * Admin Page:
 <img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20002949.png">
 
+* User Page:
+<img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-24%20150031.png">
+
 * Trans Page:
 <img src="https://github.com/bhaski17/BankDAOApplication/blob/master/arts/Screenshot%202025-04-22%20003529.png">
 
